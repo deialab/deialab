@@ -1,5 +1,5 @@
 <p>
-  <img width="20%" src="https://github.com/deialab/deialab/blob/master/heyyyyyy.gif"/>
+  <img width="40%" src="https://github.com/deialab/deialab/blob/master/heyyyyyy.gif"/>
 </p>
 
 <!--
